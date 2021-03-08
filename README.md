@@ -1,0 +1,3 @@
+# bmxmrig
+xcd
+xd
